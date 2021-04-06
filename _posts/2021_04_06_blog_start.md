@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 블로그 시작!
-data: 2021-04-06 00:00:00 +0900
+image: post_1.jpg
+data: 2021-04-06 21:32:20 +0900
 tags: [daily]
 categories: life
 ---

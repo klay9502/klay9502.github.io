@@ -14,7 +14,7 @@ categories: life
 
 ###### 블로그 테마는 Artem Sheludko님의 flexton을 사용했다.
 
-> https://github.com/artemsheludko/flexton - Artem Sheludko/flexton
+> [Artem Sheludko의 flexton][link_1] - GitHub
 
 좀 더 공부해서 블로그 테마도 커스텀 마이징 하고싶다. 아직은 너무 미숙하다.
 
@@ -24,5 +24,9 @@ categories: life
 
 ###### GitHub Pages 사용법은 다음 블로그들을 참고했다.
 
-> https://zoomkoding.github.io/gitblog/2019/08/15/git-blog-1.html - by 줌코딩 <br>
-> https://velog.io/@zawook/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-1 - by zawook
+> [차근차근 Github 블로그 만들기][link_2] by zoomkoding<br>
+> [Github 블로그 만들기][link_3] by zawook
+
+[link_1]: https://github.com/artemsheludko/flexton
+[link_2]: https://zoomkoding.github.io/gitblog/2019/08/15/git-blog-1.html
+[link_3]: https://velog.io/@zawook/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-1

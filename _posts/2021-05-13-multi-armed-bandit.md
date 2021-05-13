@@ -4,7 +4,7 @@ title: 멀티 암드 밴딧(Multi Armed Bandit)을 배워보자
 image: post_MAB.jpg
 data: 2021-05-13 19:37:00 +0900
 tags: [AI, Study, MAB, Reinforcement learning, UCB, Algorithm]
-cartegories: study
+categories: study
 ---
 
 ##### 시작하기 앞서

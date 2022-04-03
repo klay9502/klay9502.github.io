@@ -1,8 +1,8 @@
 ---
 layout: post
 title: NVIDIA Instant NeRF 환경을 구축해보자
-image: post_ngp.jpg
-data: 2021-05-13 19:37:00 +0900
+image: post_ngp.png
+data: 2022-04-03 20:05:00 +0900
 tags: [AI, Study, NVIDIA, Github, Algorithm]
 categories: study
 ---

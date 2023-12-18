@@ -4,124 +4,76 @@ title: About
 permalink: /about/
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Hello World!
 
-[Link to another page](./another-page.html).
+Welcome to my portfolio page.
 
-There should be whitespace between paragraphs.
+## Profile
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Jongmin KIM
 
-# Header 1
+Male
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+1998.04.17.
 
-## Header 2
+clay9502@naver.com
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+Busan. ROK
 
 * * *
 
-### Here is an unordered list:
+## Tech Stack
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+* Used at the main : **C / C++**, **Python**, **Unity(C#)**
 
-### And an ordered list:
+* Used at least once : **HTML5**, **CSS3**, **JavaScript**, **React**, **Flutter**, **Dart**, **MySQL**, **AWS**
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+* * *
 
-### And a nested list:
+## Career
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+* 2023.12 ~ Now : **Game Server Developer**, MasangSoft 
 
-### Small image
+* 2022.08 ~ 2023.12 : **Coding Tutor**, Fast Q&A Service, Sparta Coding Club
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+## Education
 
-### Large image
+* 2017 ~ 2024 : Software Engineering at Dongseo University
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+* 2017 ~ 2024 : AI Engineering at Dongseo University (Dual Degree)
 
+* 2014 ~ 2017 : Computer Game Development at Ulsan Anione HighSchool
 
-### Definition lists can be used with HTML syntax.
+<br>
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+* 2023.07.03 ~ 2023 08.18 : 2023 Summer Internship Program at KENTECH - Energy AI
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+* 2022.01.24 ~ 2022.02.18 : Silicon Valley Software Innovation & Technology Program at San Jose State University
 
-```
-The final element.
-```
+* 2021.07.05 ~ 2021.07.30 : 4 weeks of EFL & Machine Learing Program at University of the Cordilleras
 
-## Emojis
+## Prize
+
+* 2023 Show Me the Dongseo AI (2023.11, Alone) - **Top Prize**
+
+* 2022 DongSeo AI/SW Idea an in-school Contest (2022.06, Team Leader) - **Participation Prize**
+
+* San Jose State University Silicon Valley Software Innovation & Technology Program (2022.02, Team Leader) - **Second Prize**
+
+* 2021 DongSeo-In AI Hackathon an in-school Competition (2021.11, Team Leader) - **Participation Prize**
+
+## Certificate
+
+* 2023.06.21 AWS Certified Cloud Practitioner (AWS Certified)
+
+* * *
+
+## Domestic Journal Papers
+
+* Jongmin Kim and Sunyong Kim. "Reinforcement Learning-Based Illuminance Control Method for Building Lighting System", Journal of IKEEE 26, no.1 (2022) : 56-61
+
+## Domestic Conference Papers
+
+* Jongmin Kim, Minsu Lee, Sunyong Kim. "Reinforcement Learning-Based Adaptive Traffic Signal Control in 4-Way Intersection", KICS Summer Conference 2023, Ramada Plaza Hotel, Jeju, Korea. 2023.06.21-23
+
+* Jongmin Kim, Seokmin Choi, Sunyong Kim. "A Comparison between Reinforcement Learning Algorithms for Controlling Lighting Systems in Buildings", KICS Fall Conference 2022, Lahan Select Hotel, Gyeonju, Korea. 2022.11.16-18

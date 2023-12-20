@@ -58,17 +58,17 @@ Busan. ROK
 
 ## Prize
 
-- 2023 Show Me the Dongseo AI (2023.11, Alone) - **Top Prize**
+- 2023 Show Me the Dongseo AI (2023.11, Alone) - [**Top Prize**](https://github.com/klay9502/klay9502/blob/main/Prizes/TopPrize_ShowMeTheDongSeoAI.pdf)
 
 - 2022 DongSeo AI/SW Idea an in-school Contest (2022.06, Team Leader) - **Participation Prize**
 
-- San Jose State University Silicon Valley Software Innovation & Technology Program (2022.02, Team Leader) - **Second Prize**
+- San Jose State University Silicon Valley Software Innovation & Technology Program (2022.02, Team Leader) - [**Second Prize**](https://github.com/klay9502/klay9502/blob/main/Prizes/Second_Prize_SanJose_Program.pdf)
 
 - 2021 DongSeo-In AI Hackathon an in-school Competition (2021.11, Team Leader) - **Participation Prize**
 
 ## Certificate
 
-- 2023.06.21 AWS Certified Cloud Practitioner (AWS Certified)
+- 2023.06.21 [AWS Certified Cloud Practitioner](https://github.com/klay9502/klay9502/blob/main/Certifications/AWS_Certified_Cloud_Practitioner_Certification.pdf) (AWS Certified)
 
 * * *
 

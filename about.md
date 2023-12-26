@@ -50,7 +50,7 @@ Busan. ROK
 
 <br>
 
-- 2023.07.03 ~ 2023 08.18 : 2023 Summer Internship Program at KENTECH Graduate School - Energy AI [[Certificate](https://github.com/klay9502/klay9502/blob/main/Certifications/KENTECH_Internship_Certification_JMKim.pdf)]
+- 2023.07.03 ~ 2023 08.18 : 2023 Summer Internship Program at KENTECH Graduate School - Energy AI [[Certificate](https://github.com/klay9502/klay9502/blob/main/Certificates/KENTECH_Internship_Certification_JMKim.pdf)]
 
 - 2022.01.24 ~ 2022.02.18 : Silicon Valley Software Innovation & Technology Program at San Jose State University
 

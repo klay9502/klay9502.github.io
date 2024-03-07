@@ -74,7 +74,9 @@ Busan. ROK
 
 ## Domestic Journal Papers
 
-- Jongmin Kim and Sunyong Kim. "Reinforcement Learning-Based Illuminance Control Method for Building Lighting System", Journal of IKEEE 26, no.1 (2022) : 56-61 [[Paper](https://github.com/klay9502/klay9502/blob/main/Papers/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5_%EA%B8%B0%EB%B0%98_%EB%B9%8C%EB%94%A9%EC%9D%98_%EB%B0%A9%EB%B3%84_%EC%A1%B0%EB%AA%85_%EC%8B%9C%EC%8A%A4%ED%85%9C_%EC%A1%B0%EB%8F%84%EA%B0%92_%EC%84%A4%EC%A0%95%EA%B8%B0%EB%B2%95.pdf)]
+- Jongmin Kim and Sunyong Kim. 2024, "Reinforcement Learning-Based Adaptive Traffic Signal Control considering Vehicles and Pedestrians in Intersection", Journal of KIECS, vol.19, no.01, pp.143-148. [[Paper](https://github.com/klay9502/klay9502/blob/main/Papers/%EC%B0%A8%EB%9F%89%EA%B3%BC_%EB%B3%B4%ED%96%89%EC%9E%90%EB%A5%BC_%EA%B3%A0%EB%A0%A4%ED%95%9C_%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5_%EA%B8%B0%EB%B0%98_%EC%A0%81%EC%9D%91%ED%98%95_%EA%B5%90%EC%B0%A8%EB%A1%9C_%EC%8B%A0%ED%98%B8%EC%A0%9C%EC%96%B4_%EC%97%B0%EA%B5%AC.pdf)]
+
+- Jongmin Kim and Sunyong Kim. 2022, "Reinforcement Learning-Based Illuminance Control Method for Building Lighting System", Journal of IKEEE, vol.26, no.1, pp.56-61. [[Paper](https://github.com/klay9502/klay9502/blob/main/Papers/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5_%EA%B8%B0%EB%B0%98_%EB%B9%8C%EB%94%A9%EC%9D%98_%EB%B0%A9%EB%B3%84_%EC%A1%B0%EB%AA%85_%EC%8B%9C%EC%8A%A4%ED%85%9C_%EC%A1%B0%EB%8F%84%EA%B0%92_%EC%84%A4%EC%A0%95%EA%B8%B0%EB%B2%95.pdf)]
 
 ## Domestic Conference Papers
 

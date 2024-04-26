@@ -26,15 +26,20 @@ Busan. ROK
 
 ## Skills
 
-- Used at the main : **C / C++**, **Python**, **Unity(C#)**
+- Used at the main : **C / C++**, **Python**, **MySQL**, **SQL Server**, 
 
-- Used at least once : **HTML5**, **CSS3**, **JavaScript**, **React**, **Flutter**, **Dart**, **MySQL**, **AWS**
+- Used at least once : **HTML5**, **CSS3**, **JavaScript**,  **Unity(C#)**, **React**, **Flutter**, **Dart**, **AWS**
 
 * * *
 
 ## Work Experience
 
 - 2023.12 ~ Present : **Game Server Programmer** [@MasangSoft](https://www.masangsoft.com/)
+
+    - 2024.01 ~ Present: [DK Online](https://dk.masanggames.co.kr/)
+    - 2024.02 ~ Present: [Asda Global](https://ag.masanggames.com/)
+    - 2024.03 ~ Present: [Call of Chaos](https://cc.masanggames.co.kr/)
+    - 2024.04 ~ Present: [Micro Volts: Recharged](https://store.steampowered.com/app/1426440/_/?l=koreana)
 
 - 2022.08 ~ 2023.12 : **Coding Tutor** [@Sparta Coding Club](https://career.spartacodingclub.kr/home)
 

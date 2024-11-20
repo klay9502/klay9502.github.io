@@ -26,9 +26,9 @@ Busan. ROK
 
 ## Skills
 
-- Used at the main : **C / C++**, **Python**, **MySQL**, **SQL Server**, 
+- Used at the main : **C/C++**, **MySQL**, **SQL Server**, **IOCP**, **Epoll**, **AWS**
 
-- Used at least once : **HTML5**, **CSS3**, **JavaScript**,  **Unity(C#)**, **React**, **Flutter**, **Dart**, **AWS**
+- Used at least once : **Web(HTML, CSS, JS etc)**, **Unity**, **React**, **Flutter**
 
 * * *
 
@@ -36,12 +36,20 @@ Busan. ROK
 
 - 2023.12 ~ Present : **Game Server Programmer** [@MasangSoft](https://www.masangsoft.com/)
 
-    - 2024.01 ~ Present: [DK Online](https://dk.masanggames.co.kr/)
-    - 2024.02 ~ Present: [Asda Global](https://ag.masanggames.com/)
-    - 2024.03 ~ Present: [Call of Chaos](https://cc.masanggames.co.kr/)
-    - 2024.04 ~ Present: [Micro Volts: Recharged](https://store.steampowered.com/app/1426440/_/?l=koreana)
+	- **Main Product**
+		- [**MICROVOLTS: Recharged**](https://store.steampowered.com/app/1426440/MICROVOLTS_Recharged/) (Global)
+			- Maintenance and Support for Live Game Services.
+			- Improvement of Game Event System.
+			- Improvement of AI(BOT) Mode.
+		- [**GunZ: The Duel**](https://store.steampowered.com/app/3139440/GunZ_The_Duel/) (Global/KR)
+			- Steam Service Management.
+		
+	- **Sub Product**
+		- [DK Online](https://dk.masanggames.co.kr/) (KR)
+		- [Asda Global](https://ag.masanggames.com/) (Global)
+		- [CallofChaos](https://cc.masanggames.co.kr/) (KR)
 
-- 2022.08 ~ 2023.12 : **Coding Tutor** [@Sparta Coding Club](https://career.spartacodingclub.kr/home)
+- 2022.08 ~ 2023.12 : **Coding Tutor** [@TeamSparta](https://career.spartacodingclub.kr/home)
 
     - Fast Q&A Service
 
@@ -76,6 +84,10 @@ Busan. ROK
 - 2023.06.21 [AWS Certified Cloud Practitioner](https://github.com/klay9502/klay9502/blob/main/Certifications/AWS_Certified_Cloud_Practitioner_Certification.pdf) (AWS Certified)
 
 * * *
+
+## Patents
+
+- Jongmin Kim and Sunyong Kim. "Reinforcement Learning-Based Illuminance Control", Korean Patent 10-2698020 (2024.08.19)
 
 ## Domestic Journal Papers
 
